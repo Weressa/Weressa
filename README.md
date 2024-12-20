@@ -1,6 +1,6 @@
 # Hi there! 👋  
 **I'm Assewer!**  
-![Banner]([https://i.imgur.com/aDiTUpY.png](https://i.imgur.com/qaCmREc.jpeg))
+![Banner](https://i.imgur.com/qaCmREc.jpeg)
 
 ## 🚀 About Me
 - 🌟 42 Student | AI Enthusiast  
