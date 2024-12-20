@@ -7,4 +7,6 @@
 - 🧠 Currently learning: C 
 - 🌍 Based in Paris, France
 
+- 
+
 > “First, solve the problem. Then, write the code..”
