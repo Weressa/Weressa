@@ -1,7 +1,7 @@
 # Hi there! 👋  
 **I'm Assewer!**  
 <div align="center">
-  <img src="((https://i.pinimg.com/736x/1a/32/1e/1a321e84d0aa03cdc5ba740ca2359282.jpg))" alt="banner" width="100%">
+  <img src="https://i.pinimg.com/736x/1a/32/1e/1a321e84d0aa03cdc5ba740ca2359282.jpg" alt="banner" width="100%">
 </div>
 
 ## 🚀 About Me
