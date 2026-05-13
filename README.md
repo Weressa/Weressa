@@ -4,8 +4,8 @@
   <img 
     src="https://i.pinimg.com/736x/1a/32/1e/1a321e84d0aa03cdc5ba740ca2359282.jpg"
     alt="banner"
-    width="700"
-    style="transform: rotate(90deg); border-radius: 15px;"
+    width="200"
+    style="transform: rotate(90); border-radius: 15px;"
   />
 </div>
 
