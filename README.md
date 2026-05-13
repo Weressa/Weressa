@@ -4,7 +4,7 @@
 ## 🚀 About Me
  💻 AI Enthusiast | 🎨 Creative Thinker | 🌱 Sustainability Advocate
  
-🧠 Currently learning: C 
+🧠 Currently learning: C, C++, make
 
 🌍 Based in Paris, France
 
