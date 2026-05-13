@@ -6,7 +6,7 @@
     alt="banner"
     width="350"
     style="
-      transform: rotate(90deg);
+      transform: rotate(180deg);
       border-radius: 15px;
       margin: 40px 0;
     "
