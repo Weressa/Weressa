@@ -1,7 +1,8 @@
 # Hi there! 👋  
 **I'm Assewer!**  
-
-![Banner]([https://i.imgur.com/qaCmREc.jpeg](https://i.pinimg.com/736x/1a/32/1e/1a321e84d0aa03cdc5ba740ca2359282.jpg))
+<div align="center">
+  <img src="[your-banner.png](https://i.pinimg.com/736x/1a/32/1e/1a321e84d0aa03cdc5ba740ca2359282.jpg)" alt="banner" width="100%">
+</div>
 
 ## 🚀 About Me
  💻 AI Enthusiast | 🎨 Creative Thinker | 🌱 Sustainability Advocate
