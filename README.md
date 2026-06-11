@@ -2,7 +2,7 @@
 **I'm Assewer!**  
 
 <p align="center">
-  <img src="design.jpg" alt="Assewer" width="600" style="border-radius:50%;">
+  <img src="design.jpg" alt="Assewer" width="750" style="border-radius:50%;">
 </p>
 
 ## 🚀 About Me
