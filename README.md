@@ -1,9 +1,7 @@
 # Hi there! 👋  
 **I'm Assewer!**  
 
-<p align="center">
-  <img src="design.jpg" alt="Assewer" style="border-radius:50%;">
-</p>
+
 
 ## 🚀 About Me
  💻 AI Enthusiast | 🎨 Creative Thinker | 🌱 Sustainability Advocate
