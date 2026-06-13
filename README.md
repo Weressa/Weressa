@@ -1,5 +1,5 @@
 # 🪷 Hi there! 🪷 
-**I'm Assewer!  **  
+** I'm Assewer!  **  
 
 <p align="center">
   <img src="design1.jpg" alt="Assewer" style="border-radius:50%;">
