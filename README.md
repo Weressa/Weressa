@@ -1,12 +1,12 @@
-# Hi there! 👋  
-**I'm Assewer!**  
+# 🪷 Hi there! 🪷 
+**I'm Assewer!  **  
 
 <p align="center">
   <img src="design1.jpg" alt="Assewer" style="border-radius:50%;">
 </p>
 
-## 🚀 About Me
- 💻 AI Enthusiast | 🎨 Creative Thinker | 🌱 Sustainability Advocate
+## 🌸 About Me
+ 💻 AI Enthusiast | 🦄 Creative Thinker | 🌱 Sustainability Advocate
  
 🧠 Currently learning: C, C++, make
 
