@@ -18,5 +18,5 @@
 
 🌼 Fun Fact: Multilingual globetrotter with a knack for problem-solving and cross-disciplinary projects!
 
-> "I will either find a way or make one"  Hannibal Barca
+
 
